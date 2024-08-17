@@ -39,7 +39,7 @@ Restart Functionality: Pressing the ESC key allows the player to restart the gam
 
 ## Controls
 Arrow Keys:
-Up: Rotate the tetromino.
+Up: Rotate the tetromino.<br/>
 Down: Move the tetromino down faster.
 Left: Move the tetromino to the left.
 Right: Move the tetromino to the right.
