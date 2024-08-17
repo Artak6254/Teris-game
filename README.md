@@ -2,15 +2,15 @@
 
 To run the game, you'll need to have Python installed on your system along with the Pygame library. Follow these steps to set up the environment:
 
-Clone the repository (if applicable):
+Clone the repository (if applicable):<br/>
 
-git clone https://github.com/yourusername/tetris-python.git
-cd tetris-python
-Install Pygame:
+git clone https://github.com/yourusername/tetris-python.git<br/>
+cd tetris-python<br/>
+Install Pygame:<br/>
 
 
-pip install pygame
-How to Run
+pip install pygame<br/>
+How to Run<br/>
 Once Pygame is installed, you can run the game using the following command:
 
 
@@ -40,26 +40,26 @@ Restart Functionality: Pressing the ESC key allows the player to restart the gam
 ## Controls
 Arrow Keys:
 Up: Rotate the tetromino.<br/>
-Down: Move the tetromino down faster.
-Left: Move the tetromino to the left.
-Right: Move the tetromino to the right.
-Space Bar: Instantly drop the tetromino to the bottom.
+Down: Move the tetromino down faster.<br/>
+Left: Move the tetromino to the left.<br/>
+Right: Move the tetromino to the right.<br/>
+Space Bar: Instantly drop the tetromino to the bottom.<br/>
 Escape: Restart the game.
 
 
 Dependencies
-Python 3.x
-Pygame: A set of Python modules designed for writing video games.
-Project Structure
-tetris.py: The main script containing the game logic and Pygame setup.
-Future Improvements
-Add sound effects and music to enhance the gameplay experience.
-Implement different levels with increasing difficulty.
-Add a pause and resume feature.
-Improve the visual design and add more color schemes.
-Contributing
-Feel free to fork this project, submit issues, or contribute by opening pull requests. Contributions are always welcome!
+Python 3.x<br/>
+Pygame: A set of Python modules designed for writing video games.<br/>
+Project Structure<br/>
+tetris.py: The main script containing the game logic and Pygame setup.<br/>
+Future Improvements<br/>
+Add sound effects and music to enhance the gameplay experience.<br/>
+Implement different levels with increasing difficulty.<br/>
+Add a pause and resume feature.<br/>
+Improve the visual design and add more color schemes.<br/>
+Contributing<br/>
+Feel free to fork this project, submit issues, or contribute by opening pull requests. Contributions are always welcome!<br/>
 
 License
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
+This project is open-source and available under the MIT License. See the LICENSE file for more details.<br/>
 
