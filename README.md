@@ -5,9 +5,13 @@ To run the game, you'll need to have Python installed on your system along with 
 Clone the repository (if applicable):<br/>
 
 ```bash
-git clone https://github.com/yourusername/tetris-python.git
+git clone https://github.com/Artak6254/Teris-game.git
 ```
-cd tetris-python<br/>
+
+```bash
+cd Teris-game
+```
+
 ```bash
 pip Install Pygame:
 ```
