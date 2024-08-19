@@ -9,7 +9,7 @@ git clone https://github.com/yourusername/tetris-python.git
 ```
 cd tetris-python<br/>
 ```bash
-pip Install Pygame:<br/>
+pip Install Pygame:
 ```
 
 
