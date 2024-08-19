@@ -4,9 +4,14 @@ To run the game, you'll need to have Python installed on your system along with 
 
 Clone the repository (if applicable):<br/>
 
+```bash
 git clone https://github.com/yourusername/tetris-python.git<br/>
+```
 cd tetris-python<br/>
-Install Pygame:<br/>
+```bash
+pip Install Pygame:<br/>
+```
+
 
 
 pip install pygame<br/>
@@ -17,7 +22,10 @@ Once Pygame is installed, you can run the game using the following command:
 python tetris.py
 The game window will open, and you can start playing immediately!
 
-write in terminal python main.py
+write in terminal 
+```bash
+python main.py
+```
  
 
 ## Tetris Game in Python
